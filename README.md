@@ -2,6 +2,7 @@
 将 unreal 的蓝图文件生成对应的 ts 脚本
 
 ## 功能介绍
+> 按钮名字 `PuertsMixinGenerator` ，在空间反射器按钮旁边
 添加此插件后，在 Unreal 的蓝图或者 UMG 蓝图工具栏出现一个 Mixin 按钮，点击按钮后：
 - 自动收集当前蓝图的信息，生成对应的 Mixin 脚本
 - 生成对应 Mixin 脚本的 import 信息到一个 PuertsImportList 文件中
